@@ -1,26 +1,38 @@
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
   text-alighn: center;
+  background-color: #A6D785;
 }
 
 h1 {
   padding: 20px 0px 10px 0px;
+  font-family: 'Paytone One', sans-serif;
+  font-size: 50px;
+  color: #ffffff;
+}
+
+p {
+  font-family: 'Overpass', sans-serif;
+  color: #ffffff;
+
 }
 
 a {
 color: #69CBBB;
 text-decoration: none;
+font-family: 'Overpass', sans-serif;
+color: #ff1919;
 }
 
 body {
 text-align: center;
 }
 
-a {
-color: #69CBBB;
-text-decoration: none;
+iframe {
+  border-width: 5px;
+  border-color: #ffffff;
+  border-style: solid;
 }
